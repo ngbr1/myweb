@@ -24,5 +24,5 @@ if __name__ == '__main__':
 
     # Chạy ứng dụng ở chế độ debug
 
-    app.run(debug=True)
+    app.run(debug=True,port=8000)
 
